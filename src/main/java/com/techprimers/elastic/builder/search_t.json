@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Shiva",
+        "id": 124,
+        "teamName": "Tech",
+        "salary": 21000
+    },
+    {
+        "name": "Karthick",
+        "id": 14,
+        "teamName": "Tech",
+        "salary": 21000
+    },
+    {
+        "name": "Kumaran",
+        "id": 1,
+        "teamName": "Tech",
+        "salary": 22000
+    },
+    {
+        "name": "Techie",
+        "id": 1230,
+        "teamName": "Accounting",
+        "salary": 12000
+    }
+]
